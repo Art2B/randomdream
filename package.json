@@ -1,0 +1,21 @@
+{
+  "name": "randomdream",
+  "version": "0.0.1",
+  "description": "Generate every possible images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "money",
+    "money",
+    "money"
+  ],
+  "author": "Art2B & Dwarkas",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^1.6.5",
+    "q": "^1.5.0",
+    "rimraf": "^2.6.1"
+  }
+}
