@@ -4,14 +4,9 @@
   "description": "Generate every possible images",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js"
   },
-  "keywords": [
-    "money",
-    "money",
-    "money"
-  ],
-  "author": "Art2B & Dwarkas",
+  "author": "Art2B @mr_marabout",
   "license": "MIT",
   "dependencies": {
     "canvas": "^1.6.5",
